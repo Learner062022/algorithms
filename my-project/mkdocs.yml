@@ -1,0 +1,14 @@
+site_name: Dylan
+nav:
+    - data structures: data structures.md
+    - lists: lists.md
+    - arrays: arrays.md
+    - linked lists: linked lists.md
+    - sets: sets.md
+    - queues: queues.md
+    - stack: stacks.md
+    - trees: trees.md
+    - hash table: hash table.md
+    - graphs: graphs.md
+
+sphinx_theme: readthedocs
